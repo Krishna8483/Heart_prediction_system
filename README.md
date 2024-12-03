@@ -17,6 +17,3 @@ Machine Learning algorithms used:
     XGBoost (Scikit-learn)
 
 Accuracy achieved: 80% (Logistic Regression)
-Krishna8483/Krishna8483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
